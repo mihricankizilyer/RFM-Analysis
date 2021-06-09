@@ -146,11 +146,3 @@ new_df.head()
 # reload from disk to view
 # these ids are sent to the relevant department
 new_df.to_csv("loyal_customers.csv") # save df
-
-
-
-
-
-
-
-
